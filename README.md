@@ -1,4 +1,4 @@
-# Project 03 - Explorer
+# Project 04 - Explorer
 
 * Rocketseat Explorer
 * Stage 03
