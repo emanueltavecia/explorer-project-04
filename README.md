@@ -23,7 +23,7 @@ The development of this project aims to learn the following concepts:
 
 - Introduction to Responsiveness
 - Basic CSS styling
-  - media queries, flex
+  - media queries, flex, flexible units of measurement
 
 ## 💻 Technologies
 
